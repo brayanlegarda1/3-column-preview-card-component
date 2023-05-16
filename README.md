@@ -3,8 +3,6 @@
     <a href="https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-" target="_blank"><strong>Frontend Mentor Challenge</strong></a>
   </p>
 
-## Overview
-
 ### The challenge
 
 Users should be able to:
@@ -15,15 +13,15 @@ Users should be able to:
 ### Screenshot
 
 <div align='center'>
-<img src='./design/3-column-preview-card-component-solution' alt='3-Column Preview Card Componentsolution preview image'>
+<img src='./3-column-preview-card-component-solution.png' alt='3-Column Preview Card Componentsolution preview image'>
 </div>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FrontendMentor] https://www.frontendmentor.io/solutions/3-column-preview-card-component-solution-jvgcrM3QYO
+- Live Site URL: [Githubpage] https://brayanlegarda1.github.io/3-column-preview-card-component/
 
-###Acknowledgment
+### Acknowledgment
 
 - Challenge was provided by [Frontend Mentor](https://www.frontendmentor.io)
 
