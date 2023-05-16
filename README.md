@@ -13,13 +13,12 @@ Users should be able to:
 ### Screenshot
 
 <div align='center'>
-<img src='./3-column-preview-card-component-solution.png' alt='3-Column Preview Card Componentsolution preview image'>
+<img src='./design/3-column-preview-card-component-solution.png' alt='3-Column Preview Card Componentsolution preview image'>
 </div>
 
 ### Links
 
-- Solution URL: [FrontendMentor] https://www.frontendmentor.io/solutions/3-column-preview-card-component-solution-jvgcrM3QYO
-- Live Site URL: [Githubpage] https://brayanlegarda1.github.io/3-column-preview-card-component/
+<a href="https://brayanlegarda1.github.io/3-column-preview-card-component/" target="_blank">View Demo</a>
 
 ### Acknowledgment
 
